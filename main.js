@@ -260,3 +260,10 @@ $(function() {
 		$('#mc_embed_signup').find('form').ajaxChimp();
 	});
 });
+//video-code
+function changeVideo(videoSrc, videoTitle) {
+	// Change the video source and title
+	document.getElementById('video-source').src = videoSrc;
+	document.getElementById('video-player').load();
+	document.querySelector('.video-description h2').textContent = videoTitle;
+}
