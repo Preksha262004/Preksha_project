@@ -72,15 +72,9 @@
             </li>
             <li><a href="contacts.html">Contacts</a></li>
             <li class="dropdown">
-              <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+              <a href="index.php">
                 Login
               </a>
-              <div class="dropdown-menu">
-                <a class="dropdown-item" href="student-login.php">Student</a>
-                <a class="dropdown-item" href="login3.php">Instructor</a>
-                <a class="dropdown-item" href="login4.php">Book-dealer
-                </a>
-              </div>
             </li>
 
             <li>
