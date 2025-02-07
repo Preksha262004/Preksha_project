@@ -76,9 +76,9 @@
                 Login
               </a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="index.php">User Login</a>
-                <!-- <a class="dropdown-item" href="login3.php">Instructor</a>
-                <a class="dropdown-item" href="login4.php">Book-dealer -->
+                <a class="dropdown-item" href="student-login.php">Student</a>
+                <a class="dropdown-item" href="login3.php">Instructor</a>
+                <a class="dropdown-item" href="login4.php">Book-dealer
                 </a>
               </div>
             </li>
@@ -184,15 +184,15 @@
       <div class="owl-carousel popuar-course-carusel">
         <div class="single-popular-course">
           <div class="thumb">
-            <img class="f-img img-fluid mx-auto" src="img/popular-course/p1.jpg" alt="" />
+            <img class="f-img img-fluid mx-auto" src="img\rb.jpg" alt="" />
           </div>
           <div class="details">
             <div class="d-flex justify-content-between mb-20">
-              <p class="name">programming language</p>
-              <p class="value">$150</p>
+              <p class="name">Web Development</p>
+              <p class="value">FREE</p>
             </div>
-            <a href="#">
-              <h4>Learn Angular JS Course for Legendary Persons</h4>
+            <a href="video1.html">
+              <h4>React.js Crash Course – Build Your First App!</h4>
             </a>
             <div class="bottom d-flex mt-15">
               <ul class="list">
@@ -219,15 +219,15 @@
 
         <div class="single-popular-course">
           <div class="thumb">
-            <img class="f-img img-fluid mx-auto" src="img/popular-course/p2.jpg" alt="" />
+            <img class="f-img img-fluid mx-auto" src="img/fb.png" alt="" />
           </div>
           <div class="details">
             <div class="d-flex justify-content-between mb-20">
-              <p class="name">programming language</p>
-              <p class="value">$150</p>
+              <p class="name">App Development</p>
+              <p class="value">FREE</p>
             </div>
             <a href="#">
-              <h4>Learn Angular JS Course for Legendary Persons</h4>
+              <h4>Flutter Full Course – Learn by Building Projects</h4>
             </a>
             <div class="bottom d-flex mt-15">
               <ul class="list">
@@ -254,15 +254,15 @@
 
         <div class="single-popular-course">
           <div class="thumb">
-            <img class="f-img img-fluid mx-auto" src="img/popular-course/p3.jpg" alt="" />
+            <img class="f-img img-fluid mx-auto" src="img/ab.jpg" alt="" />
           </div>
           <div class="details">
             <div class="d-flex justify-content-between mb-20">
-              <p class="name">programming language</p>
-              <p class="value">$150</p>
+              <p class="name">Artificial Intelligence</p>
+              <p class="value">FREE</p>
             </div>
             <a href="#">
-              <h4>Learn Angular JS Course for Legendary Persons</h4>
+              <h4>AI Unleashed: Master the Future of Artificial Intelligence!</h4>
             </a>
             <div class="bottom d-flex mt-15">
               <ul class="list">
@@ -289,15 +289,15 @@
 
         <div class="single-popular-course">
           <div class="thumb">
-            <img class="f-img img-fluid mx-auto" src="img/popular-course/p4.jpg" alt="" />
+            <img class="f-img img-fluid mx-auto" src="img/cb.jpg" alt="" />
           </div>
           <div class="details">
             <div class="d-flex justify-content-between mb-20">
-              <p class="name">programming language</p>
-              <p class="value">$150</p>
+              <p class="name">Cyber Security</p>
+              <p class="value">FREE</p>
             </div>
             <a href="#">
-              <h4>Learn Angular JS Course for Legendary Persons</h4>
+              <h4>Cyber Security Unlocked – Protect, Defend, Secure!</h4>
             </a>
             <div class="bottom d-flex mt-15">
               <ul class="list">
