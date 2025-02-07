@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React course</title>
+    <link rel="stylesheet" href="video.css">
+</head>
+<body>
+    <div class="container">
+        <div class="video-section">
+            <div class="video-player">
+                <video id="video-player" width="800" controls>
+                    <source id="video-source" src="C:\Users\Nensi Tadhani\Downloads\dummy.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <div class="video-description">
+                <h2>React.js Crash Course – Build Your First App!</h2>
+                <p>🔥 Welcome to the Ultimate React.js Crash Course! 🔥
+
+                  Are you new to React? This video is a beginner-friendly guide to learning React.js from scratch. We’ll cover:
+                  ✅ What is React? 🤔
+                  ✅ Setting up a React project 💻
+                  ✅ Understanding components, props, and state ⚛️
+                  ✅ Using React Hooks (useState & useEffect) 🔄
+                  ✅ Building a simple React app 🏗️
+                  
+                  By the end of this tutorial, you’ll have a solid foundation to start building modern web applications with React.</p>
+            </div>
+        </div>
+
+        <div class="recommendations">
+            <h3>Recommended Episodes</h3>
+            <div class="recommendation-list">
+                <div class="recommended-video" onclick="changeVideo('video1.mp4', 'Video Title 1')">
+                    <img src="img\thumbnail.jpg" alt="Thumbnail 1" class="thumbnail">
+                    <p>React.js Crash Course Tutorial-1</p>
+                </div>
+                <div class="recommended-video" onclick="changeVideo('video2.mp4', 'Video Title 2')">
+                  <img src="img\thumbnail.jpg" alt="Thumbnail 2" class="thumbnail">
+                    <p>React.js Crash Course Tutorial-2</p>
+                </div>
+                <div class="recommended-video" onclick="changeVideo('video3.mp4', 'Video Title 3')">
+                  <img src="img\thumbnail.jpg" alt="Thumbnail 3" class="thumbnail">
+                    <p>React.js Crash Course Tutorial-3</p>
+                </div>
+                <!-- Add more recommended videos here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
