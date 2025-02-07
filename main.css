@@ -3162,3 +3162,29 @@ h6 {
         transition: all 0.3s ease 0s; }
 
 /*# sourceMappingURL=main.css.map */
+
+
+/* Download button */
+.download-btn {
+  display: inline-block;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff; /* Blue color */
+  border: none;
+  border-radius: 8px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: 'background 0.3s, transform 0.2s';
+}
+
+.download-btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  transform: scale(1.05);
+}
+
+.download-btn:active {
+  background-color: #004494; /* Even darker blue when clicked */
+  transform: scale(0.98);
+}
