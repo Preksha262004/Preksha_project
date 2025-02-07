@@ -39,7 +39,7 @@
     <nav class="navbar navbar-expand-lg  navbar-light">
       <div class="container">
         <a class="navbar-brand" href="index.html">
-          <img src="img/logo.png" alt="" />
+         <h2 style="color: white;">E-Learning</h2>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -262,7 +262,7 @@
               <p class="value">FREE</p>
             </div>
             <a href="#">
-              <h4>AI Unleashed: Master the Future of Artificial Intelligence!</h4>
+              <h4>AI Essentials: A Beginner's Guide</h4>
             </a>
             <div class="bottom d-flex mt-15">
               <ul class="list">
@@ -333,18 +333,17 @@
         <div class="col-lg-5">
           <div class="section-title text-white">
             <h2 class="text-white">
-              Watch Our Trainers <br>
-              in Live Action
+              Most Viewed <br>
+              Course
             </h2>
             <p>
-              In the history of modern astronomy, there is probably no one greater leap forward than the building and
-              launch of the space telescope known as the Hubble.
+              Discover our most viewed video, packed with valuable insights and engaging content that has captivated audiences worldwide.
             </p>
           </div>
         </div>
         <div class="offset-lg-1 col-md-6 video-left">
-          <div class="owl-carousel video-carousel">
-            <div class="single-video">
+          <!-- <div class=" owl-carousel video-carousel"> -->
+            <!-- <div class="single-video">
               <div class="video-part">
                 <img class="img-fluid" src="img/video-img.jpg" alt="">
                 <div class="overlay"></div>
@@ -357,23 +356,22 @@
                 In the history of modern astronomy, there is probably no one greater leap forward than the building and
                 launch of the space telescope known as the Hubble.
               </p>
-            </div>
+            </div> -->
 
             <div class="single-video">
               <div class="video-part">
-                <img class="img-fluid" src="img/video-img.jpg" alt="">
+                <img class="img-fluid" src="img/c.png" alt="">
                 <div class="overlay"></div>
-                <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=VufDd-QL1c0">
+                <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=ApBU_CfU7cE">
                   <img class="play-icon" src="img/play-btn.png" alt="">
                 </a>
               </div>
-              <h4 class="text-white mb-20 mt-30">Learn Angular js Course for Legendary Persons</h4>
+              <h4 class="text-white mb-20 mt-30">React.js Unleashed: Rapid App Development!</h4>
               <p class="text-white mb-20">
-                In the history of modern astronomy, there is probably no one greater leap forward than the building and
-                launch of the space telescope known as the Hubble.
+                Master React.js with a fast-paced, hands-on approach! Build dynamic apps while exploring key concepts like virtual DOM, hooks, and component architecture.
               </p>
             </div>
-          </div>
+          <!-- </div> -->
         </div>
       </div>
     </div>
@@ -400,13 +398,12 @@
         <div class="col-lg-4 col-md-6">
           <div class="other-feature-item">
             <i class="ti-key"></i>
-            <h4>Lifetime Access</h4>
+            <h4>100% Free Learning</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Access all courses and study materials at no cost.
+                No hidden fees or subscriptions—learn freely.
+                Enjoy high-quality education for everyone.
               </p>
             </div>
           </div>
@@ -414,13 +411,12 @@
         <div class="col-lg-4 col-md-6 mt--160">
           <div class="other-feature-item">
             <i class="ti-files"></i>
-            <h4>Source File Included</h4>
+            <h4>Book Store Integration</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Browse, request, and exchange books easily.
+                Connect with book dealers and fellow learners.
+                Access study materials anytime for free.
               </p>
             </div>
           </div>
@@ -428,13 +424,12 @@
         <div class="col-lg-4 col-md-6 mt--260">
           <div class="other-feature-item">
             <i class="ti-medall-alt"></i>
-            <h4>Student Membership</h4>
+            <h4>Secure & User Friendly</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Safe, encrypted, and ad-free learning experience.
+                Smooth navigation with an easy-to-use interface.
+                Learn without distractions or security concerns.
               </p>
             </div>
           </div>
@@ -442,13 +437,11 @@
         <div class="col-lg-4 col-md-6">
           <div class="other-feature-item">
             <i class="ti-briefcase"></i>
-            <h4>35000+ Courses</h4>
+            <h4>Interactive Courses</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Engage with hands-on projects, quizzes, and real-world case studies.
+                Learn through step-by-step tutorials and in-depth explanations.
               </p>
             </div>
           </div>
@@ -456,13 +449,12 @@
         <div class="col-lg-4 col-md-6 mt--160">
           <div class="other-feature-item">
             <i class="ti-crown"></i>
-            <h4>Expert Mentors</h4>
+            <h4>Expert Instructors</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Learn from experienced professionals and educators.
+                Get valuable insights and real-world knowledge.
+                Interact through live sessions and discussions.
               </p>
             </div>
           </div>
@@ -470,13 +462,12 @@
         <div class="col-lg-4 col-md-6 mt--260">
           <div class="other-feature-item">
             <i class="ti-headphone-alt"></i>
-            <h4>Live Supports</h4>
+            <h4>Unlimited Learning</h4>
             <div>
               <p>
-                Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed
-                do eiusmod tempor incididunt labore. Lorem ipsum dolor sit
-                amet consec tetur adipisicing elit, sed do eiusmod tempor
-                incididunt labore.
+                Explore a wide range of courses with no limits.
+                Learn at your own pace, anytime, anywhere.
+                Revisit lessons to reinforce your knowledge.
               </p>
             </div>
           </div>
@@ -497,20 +488,17 @@
                 <img src="img/quote.png" alt="" />
                 <div class="mt-40 text">
                   <p>
-                    As conscious traveling Paup ers we must always be oncerned
-                    about our dear Mother Earth. If you think about it, you
-                    travel across her face and She is the host to your
-                    journey.
+                    A highly experienced software engineer with over 10 years in full-stack development. Specializes in React.js, JavaScript, and backend technologies. Passionate about breaking down complex coding concepts into easy-to-understand lessons.
                   </p>
                 </div>
-                <h4>Fanny Spencer</h4>
-                <p>Chief Executive, Amazon</p>
+                <h4>John Carter</h4>
+                <p>Leeds Buckett University</p>
               </div>
             </div>
           </div>
 
           <div class="offset-lg-1 col-lg-6">
-            <img src="img/testimonial/t1.jpg" alt="" />
+            <img src="img/p1.png" alt="" />
           </div>
         </div>
 
@@ -521,20 +509,17 @@
                 <img src="img/quote.png" alt="" />
                 <div class="mt-40 text">
                   <p>
-                    As conscious traveling Paup ers we must always be oncerned
-                    about our dear Mother Earth. If you think about it, you
-                    travel across her face <br />
-                    and She is the host to your journey.
+                    A leading AI and data science expert with a strong background in machine learning and analytics. Has trained thousands of students through practical, real-world projects. Committed to making technology education engaging and accessible for all.
                   </p>
                 </div>
-                <h4>Fanny Spencer</h4>
-                <p>Chief Executive, Amazon</p>
+                <h4> Emily Roberts</h4>
+                <p>RMIT University (Australia)</p>
               </div>
             </div>
           </div>
 
           <div class="offset-lg-1 col-lg-6">
-            <img src="img/testimonial/t1.jpg" alt="" />
+            <img src="img/p2.jpg" alt="" />
           </div>
         </div>
       </div>
@@ -543,7 +528,7 @@
   <!-- ================ End Testimonials Area ================= -->
 
   <!-- ================ Start Registration Area ================= -->
-  <section class="registration-area">
+  <!-- <section class="registration-area">
     <div class="container">
       <div class="row align-items-end">
         <div class="col-lg-5">
@@ -584,7 +569,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- ================ End Registration Area ================= -->
 
   <!-- ================ Start Blog Post Area ================= -->
@@ -594,12 +579,11 @@
         <div class="col-lg-12">
           <div class="section-title text-left">
             <h2>
-              Features That <br />
+              Books That <br />
               Can Avail By Everyone
             </h2>
             <p>
-              There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope.
-              It’s exciting to think about setting up your own viewing station.
+              Explore a vast collection of educational books available for free. Browse, request, and exchange books to enhance your learning experience. Access study materials anytime, anywhere without any cost.
             </p>
           </div>
         </div>
@@ -607,23 +591,29 @@
           <div class="single-blog-post">
             <img src="img/blog-post/b1.jpg" class="img-fluid" alt="" />
             <div class="overlay"></div>
-            <div class="top-text">
+             <!--<div class="top-text">
               <p>29th, oct, 2018</p>
               <p>121 likes</p>
               <p>05 comments</p>
-            </div>
+            </div> -->
             <div class="text">
-              <h4 class="text-white">Smart Kitchen Setup</h4>
+              <h4 class="text-white">Python</h4>
               <div>
                 <p>
-                  Lorem ipsum dolor sit amet consec tetur adipisicing elit,
-                  sed do.
+                  Basics Of Python
                 </p>
               </div>
-              <a href="#" class="primary-btn">
-                View Details
+               <a href="books/python1.pdf" download="Book_Name.pdf" 
+                style="display: inline-block; padding: 10px 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #76a6d8; border: none; border-radius: 8px; text-decoration: none; cursor: pointer; transition: background 0.3s, transform 0.2s;">
+                 Download PDF
+               </a>
+
+            
+            
+              <!-- <a href="#" class="primary-btn">
+                Read Book
                 <i class="fa fa-long-arrow-right"></i>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
@@ -631,23 +621,26 @@
           <div class="single-blog-post">
             <img src="img/blog-post/b2.jpg" class="img-fluid" alt="" />
             <div class="overlay"></div>
-            <div class="top-text">
+            <!-- <div class="top-text">
               <p>29th, oct, 2018</p>
               <p>121 likes</p>
               <p>05 comments</p>
-            </div>
+            </div> -->
             <div class="text">
-              <h4 class="text-white">Smart Kitchen Setup</h4>
+              <h4 class="text-white">Artificial Intelligence</h4>
               <div>
                 <p>
-                  Lorem ipsum dolor sit amet consec tetur adipisicing elit,
-                  sed do.
+                  Practical System Based On AI
                 </p>
               </div>
-              <a href="#" class="primary-btn">
-                View Details
+               <a href="books/Unit-1 Compressed.pdf" download="Book_Name.pdf" 
+                style="display: inline-block; padding: 10px 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #76a6d8; border: none; border-radius: 8px; text-decoration: none; cursor: pointer; transition: background 0.3s, transform 0.2s;">
+                 Download PDF
+               </a>
+              <!-- <a href="#" class="primary-btn">
+                Read Book
                 <i class="fa fa-long-arrow-right"></i>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
@@ -655,23 +648,26 @@
           <div class="single-blog-post">
             <img src="img/blog-post/b3.jpg" class="img-fluid" alt="" />
             <div class="overlay"></div>
-            <div class="top-text">
+            <!-- <div class="top-text">
               <p>29th, oct, 2018</p>
               <p>121 likes</p>
               <p>05 comments</p>
-            </div>
+            </div> -->
             <div class="text">
-              <h4 class="text-white">Smart Kitchen Setup</h4>
+              <h4 class="text-white">NOSQL</h4>
               <div>
                 <p>
-                  Lorem ipsum dolor sit amet consec tetur adipisicing elit,
-                  sed do.
+                  Using No SQL to manage big data
                 </p>
               </div>
-              <a href="#" class="primary-btn">
-                View Details
+               <a href="books/Unit-1-NOSQL.pdf" download="Book_Name.pdf" 
+                style="display: inline-block; padding: 10px 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #76a6d8; border: none; border-radius: 8px; text-decoration: none; cursor: pointer; transition: background 0.3s, transform 0.2s;">
+                 Download PDF
+               </a>
+              <!-- <a href="#" class="primary-btn">
+                Read Book
                 <i class="fa fa-long-arrow-right"></i>
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
